@@ -1,7 +1,8 @@
-const userInput = 30;
-let result = userInput + 18;
+let userInput = 30;
+let result;
 
-result = result - 1;
+result = userInput + 18;
+result = result - 10;
 result = result + 2;
 result = result * 0;
 
